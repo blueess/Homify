@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Bathroom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bathtub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cabinet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LivingRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mirror.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Table.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Light.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sofa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
